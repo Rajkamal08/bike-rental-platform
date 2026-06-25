@@ -172,3 +172,11 @@ npm run ios
 | **Database** | MongoDB (Mongoose) |
 | **Payments** | Stripe API |
 | **Authentication** | JWT + OTP |
+
+---
+
+## 👨‍💻 Author
+
+**Raj kamal**
+
+GitHub: https://github.com/Rajkamal08
