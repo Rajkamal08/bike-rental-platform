@@ -2,12 +2,6 @@
 
 A high-performance, full-stack bike rental and subscription platform offering a seamless mobility experience. Royal Ride bridges the gap between on-demand short-term rentals and long-term vehicle subscriptions.
 
-🔗 **Live Demos & Links**
-- **Admin Dashboard**: *(Add Link Here)*
-- **Mobile App (APK)**: *(Add Download Link Here)*
-- **Backend API**: *(Add Live Link Here)*
-
----
 
 ## 📱 What is Royal Ride?
 Royal Ride is a complete mobility solution that lets users instantly book two-wheelers or subscribe to them for a longer term. 
